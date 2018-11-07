@@ -1,0 +1,11 @@
+// —————————————————————————————————————————————————————————————————————————
+//
+//  Localizable.strings
+//  Copyright © 2018 gleesh. All rights reserved.
+//
+// —————————————————————————————————————————————————————————————————————————
+
+
+"OKText" = "OK";
+"ShowLoremButtonText" = "Show Lorem Ipsum";
+"LoremIpsumText" = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque nec massa eu velit blandit condimentum ut sit amet elit. Fusce in massa vitae massa aliquet porttitor malesuada vitae ante.";
